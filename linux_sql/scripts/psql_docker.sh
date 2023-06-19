@@ -2,7 +2,7 @@
 
 sudo systemctl status docker || systemctl
 
-CONTAINER_NAME="jrvs-psql"
+CONTAINER_NAME="linux-mointor"
 
 create_container() {
   local username="$1"
@@ -19,14 +19,14 @@ create_container() {
   fi
   
   echo "Creating PostgreSQL container..."
-  if ! [ -d ~/docker_volumn ]; then
-    mkdir ~/docker_volumn
+  if ! [ -d /home/centos/docker_volumn ]; then
+    mkdir /home/centos/docker_volumn
   else
-    echo "Folder does not exist."
+    echo "Folder does exist."
   fi
-  export PGPASSWORD='password'
-  docker volumn create my_vol
-  docker run --name "$CONTAINER_NAME" -e JRVS_USER="$username" -e JRVS_PASSWORD="$password" -v my_volumn:~/docker_volumn
+  
+  docker volume create my_volumn
+  docker run --name "$CONTAINER_NAME" -e JRVS_USER="$username" -e JRVS_PASSWORD="$password" -v my_volumn:/home/centos/docker_volumn -p 5432:5432 postgres:9.6-alpine
   echo "PostgreSQL container created."
 }
 
