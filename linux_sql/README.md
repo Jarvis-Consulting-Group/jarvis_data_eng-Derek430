@@ -72,7 +72,7 @@ cd your-repo/linux_sql
 ## Implemenation
 Discuss how you implement the project.
 ### Architecture
-[[/assets/Picture1.png]]
+[[/assets/Architecture.png]]
 
 ### Scripts
 - **psql_docker.sh**
