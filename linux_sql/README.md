@@ -33,7 +33,7 @@ cd your-repo/linux_sql
 
   
 ## Quick Start
-### 1. Create/Start/Stop a psql instance based on the 'postgres:9.6-alpine' image using psql_docker.sh.
+### 1. Create/Start/Stop a psql instance based on the 'postgres:9.6-alpine' image using psql_docker.sh
   #### To create a psql instance with port number
 ```shell script
 ./scripts/psql_docker.sh create [db_username][db_password]
@@ -49,17 +49,17 @@ cd your-repo/linux_sql
 ./scripts/psql_docker.sh stop 
 ```
 
-### 2. Create a Database named 'host_agent' which includes two tables: 'host_info' and 'host_usage' using psqldbuild.sql.
+### 2. Create a Database named 'host_agent' which includes two tables: 'host_info' and 'host_usage' using psqldbuild.sh
 ```shell script
 ./sql/psqldbuild.sh
 ```
 
-### 3. Insert hardware specs data into the DB using host_info.sh.
+### 3. Insert hardware specs data into the DB using host_info.sh
 ```shell script
 ./script/host_info.sh "host_agent" 5432 "host_info" "postgres" "password"
 ```
 
-### 4. Insert hardware usage data into the DB using host_usage.sh.
+### 4. Insert hardware usage data into the DB using host_usage.sh
 ```shell script
 ./script/host_usage.sh "host_agent" 5432 "host_info" "postgres" "password"
 ```
