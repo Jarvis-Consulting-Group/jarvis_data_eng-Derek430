@@ -66,7 +66,7 @@ cd your-repo/linux_sql
 
 ### 5. Setup Cron job
 ```shell script
-./script/cronjob.sh
+./script/crontabjob.sh
 ```
 
 ## Implemenation
