@@ -74,7 +74,6 @@ Discuss how you implement the project.
 ### Architecture
 ![image info](assets/Architecture.png)
 
-
 ### Scripts
 - **psql_docker.sh**
   The psql_docker.sh script provides a convenient way to create, start, and stop a Docker container running the PostgreSQL database server. The script is specifically designed to use the "postgres:9.6-alpine" Docker image.By executing the script with the 
