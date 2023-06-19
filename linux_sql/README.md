@@ -72,7 +72,7 @@ cd your-repo/linux_sql
 ## Implemenation
 Discuss how you implement the project.
 ### Architecture
-![image info](./asserts/Picture1.png)
+![image info](./assets/Picture1.png)
 
 ### Scripts
 - **psql_docker.sh**
@@ -162,7 +162,7 @@ Describe the schema of each table using markdown table syntax (do not put any sq
 
 # Test
 After going though all steps in Quick Start, the final results from host_usage table should look like:
-![image info](./asserts/Results.png)
+![image info](./assets/Results.png)
 
 # Improvements
 - Only execute the host_usage.sh script only when new processing exists. 
