@@ -1,4 +1,7 @@
 # Introduction
+In this project, we have been given a dataset pertaining to a newly established country club. The dataset contains information about club members, different amenities like tennis courts, and a record of bookings made for those amenities. The entity-relationship diagram illustrating the tables is provided below. The primary goal of the club is to analyze and evaluate facility usage and demand efficiently using this dataset. To achieve this objective, we utilize PostgresSQL for analyzing the given tables within a Docker environment.
+
+![image info](SQLTable.png)
 
 # SQL Quries
 
