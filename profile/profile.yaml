@@ -1,0 +1,128 @@
+# Preferred name (Characters only)
+name: "Kangdi Shi"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Derek430
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary:  I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As an ML researcher, I am proficient in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms. I am also advanced in machine learning-based computer vision, especially in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques and have already published several papers in the top journal (e.g., TIP and TMM).
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Python
+    - Java
+    - MATLAB
+    - PyTorch
+    - Tensorflow
+    - Linux/Bash
+    - RDBMS/SQL
+    - Anaconda
+    - Pycharm
+    - Agile/Scrum
+    - Slack
+    - Git
+  # At least 5 skills
+  competent:
+    - Java
+    - C
+    - SSH
+    - Tableau
+    - IntelliJ
+  # At least 5 skills
+  familiar:
+    - Microsoft Excel
+    - Microsoft Words
+    - Microsoft Powerpoint
+    - C++
+    - Notion
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Linux Cluster Monitoring Agent"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: The aim of this project is to offer a streamlined and user-friendly solution to monitor server hardware and usage info from the server users' viewpoint. Most of the application is built using bash scripts, enabling simple execution and integration with existing server management workflows. For storing the gathered hardware and usage data, a Relational Database Management System is utilized, with PostgreSQL (psql) as the selected database technology. To simplify deployment and isolation, the project is implemented within a Docker container. The development progress is tracked using Git version control.
+  #- name: "Core Java Apps"
+  #  git_url: "/core_java"
+  #  description:
+  #    - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  #    - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  #    - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+ # - name: "Springboot App"
+ #   git_url: "/springboot"
+ #   description: ""
+ # - name: "Python Data Analytics"
+ #   git_url: "/python_data_anlytics"
+ #   description: ""
+ # - name: "Hadoop"
+ #   git_url: "/hadoop"
+ #   description: ""
+ # - name: "Spark"
+ #   git_url: "/spark"
+ #   description: ""
+ # - name: "Cloud/DevOps"
+ #   git_url: "/cloud_devops"
+ #   description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Progressive image inpainting on Contextual and Structural Information"
+    #URL is optional
+    #git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Proposed a novel Machine Learning-based image inpainting framework that can progressively recover corrupted images while maintaining their structural and contextual feature integrity. Implemented the proposed model using PyTorch and conducted extensive experiments on large datasets (100,000 samples) for performance comparison. Analyzed the data obtained from ablation studies to evaluate the individual contributions of each sub-model on the overall performance of the proposed method."
+  - name: "Canonical Correlation Analysis for Object Retrieval"
+    #git_url: 
+    description: "Applied Canonical Correlation Analysis (CCA) on the image features extracted from a pretrained CNN on Tensorflow for image retrieval. Utilized Statistical Hypothesis Testing to evaluate image similarities. Evaluated the retrieval performance in terms of mean Average Precision (mAP) using MATLAB. Conducted statistical analysis using Python to uncover insights and trends from the data Compared with PCA and LDA-based approaches, the proposed showed better performance and higher robustness to dimensionality reduction."
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Technical Consultant"
+    company: "Jarvis Technologies Group Inc"
+    duration: "2023 - Present" 
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Working in Jarvis Technologies Group Inc as Technical Consultant, specializing in the development of solutions for database construction, maintenance, and monitoring. My role involves creating efficient and robust databases using PostgresSQL with Docker Containers, ensuring their smooth operation, and implementing monitoring mechanisms to track their performance using shell script. I collaborate with clients to understand their requirements and provide tailored solutions to meet their specific needs. By leveraging my expertise in data engineer, I assist in optimizing data structures, implementing security measures, and improving overall database performance."
+  - title: "Machine Learning Engineer Intern"
+    company: "Crater Labs Inc"
+    duration: "2019.08 - 2019.11"
+    description: "Worked in Crater Labs Inc as a ML/AI researcher and responsible for developing an image style transfer system. Specifically, Designing and implementing a Generative Adversarial Network (GAN)-based Image Style Transfer algorithm that produces robust results with accurate object boundaries. The system achieved an impressive 18% increase in accuracy for producing object boundaries."
+
+#List of edcuation
+education: 
+  - school_name: "McMaster University"
+    duration: "2017 - 2022"
+    degree: "Doctor of Philosophy"
+    department: "Electrical and Computer Engineering"
+    # optional
+    awards_achievements: 
+      - "McMaster Graduate Scholarship"
+  - school_name: "University of Manitoba"
+    duration: "2012 - 2017"
+    degree: "Bachelor of Applied Science"
+    department: "Electrical and Computer Engineering"
+    awards_achievements:
+      - "MTS Mobility Scholarship Eng"
+      - "International Undergraduate Student Scholarship"
+      - "UMSU Scholarship"
+      - "INTER ENT SCHOLARSHIP 90"
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "SQL - MySQL for Data Analytics and Business Intelligence (2023)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Competitive sport: Marathon"
+      - "Competitive gaming: League of Legends, Elden Ring"
