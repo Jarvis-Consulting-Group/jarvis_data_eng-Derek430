@@ -2,24 +2,27 @@
   "education": [
     {
       "awards_achievements": [
-        "Scholarship",
-        "Dean's List (2015, 2016): Ut enim ad minim veniam",
-        "GPA: 3.8/4.0"
+        "McMaster Graduate Scholarship"
       ],
-      "degree": "Bachelor of Applied Sciences",
+      "degree": "Doctor of Philosophy",
       "department": "Electrical and Computer Engineering",
-      "duration": "2012-2016",
-      "school_name": "XYZ university"
+      "duration": "2017 - 2022",
+      "school_name": "McMaster University"
     },
     {
-      "awards_achievements": null,
-      "degree": "Master of Engineering",
+      "awards_achievements": [
+        "MTS Mobility Scholarship Eng",
+        "International Undergraduate Student Scholarship",
+        "UMSU Scholarship",
+        "INTER ENT SCHOLARSHIP 90"
+      ],
+      "degree": "Bachelor of Applied Science",
       "department": "Electrical and Computer Engineering",
-      "duration": "2016-2018",
-      "school_name": "XYZ university"
+      "duration": "2012 - 2017",
+      "school_name": "University of Manitoba"
     }
   ],
-  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_demo",
+  "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Derek430",
   "highlighted_projects": [
     {
       "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
@@ -34,9 +37,9 @@
   ],
   "jarvis_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "The aim of this project is to offer a streamlined and user-friendly solution to monitor server hardware and usage info from the server users' viewpoint. Most of the application is built using bash scripts, enabling simple execution and integration with existing server management workflows. For storing the gathered hardware and usage data, a Relational Database Management System is utilized, with PostgreSQL (psql) as the selected database technology. To simplify deployment and isolation, the project is implemented within a Docker container. The development progress is tracked using Git version control.",
       "git_url": "/linux_sql",
-      "name": "Cluster Monitor"
+      "name": "Linux Cluster Monitoring Agent"
     },
     {
       "description": [
@@ -77,7 +80,7 @@
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
+        "SQL - MySQL for Data Analytics and Business Intelligence (2023)"
       ],
       "title": "Certificates"
     },
@@ -100,38 +103,44 @@
     {
       "company": "Jarvis",
       "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2020-present",
-      "title": "Software Developer"
+      "duration": "2023 - Present",
+      "title": "Data Engineer"
     },
     {
-      "company": "XYZ Company",
+      "company": "Crater",
       "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2019",
-      "title": "Tutor"
+      "duration": "2019.08 - 2019.11",
+      "title": "Machine Learning Engineer Intern"
     }
   ],
   "skills": {
     "competent": [
-      "Donec",
-      "fermentum",
-      "Donec",
-      "fermentum",
-      "Donec"
+      "Java",
+      "C",
+      "SSH",
+      "Tableau",
+      "IntelliJ"
     ],
     "familiar": [
-      "Donec",
-      "fermentum",
-      "fermentum",
+      "Microsoft Excel",
+      "Microsoft Words",
+      "Microsoft Powerpoint",
       "fermentum",
       "fermentum"
     ],
     "proficient": [
+      "Python",
       "Java",
+      "MATLAB",
+      "PyTorch",
+      "Tensorflow",
       "Linux/Bash",
       "RDBMS/SQL",
+      "Anaconda",
+      "Pycharm",
       "Agile/Scrum",
       "Git"
     ]
   },
-  "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit."
+  "summary": "I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As an ML researcher, I am proficient in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms. I am also advanced in machine learning-based computer vision, especially in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques and have already published several papers in the top journal (e.g., TIP and TMM)."
 }

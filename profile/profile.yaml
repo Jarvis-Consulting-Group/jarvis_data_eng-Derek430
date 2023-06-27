@@ -1,44 +1,50 @@
 # Preferred name (Characters only)
 name: "Kangdi Shi"
 # Your GitHub repo root URL
-github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
+github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Derek430
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+summary:  I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As an ML researcher, I am proficient in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms. I am also advanced in machine learning-based computer vision, especially in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques and have already published several papers in the top journal (e.g., TIP and TMM).
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
+    - Python
     - Java
+    - MATLAB
+    - PyTorch
+    - Tensorflow
     - Linux/Bash
     - RDBMS/SQL
+    - Anaconda
+    - Pycharm
     - Agile/Scrum
     - Git
   # At least 5 skills
   competent:
-    - Donec
-    - fermentum
-    - Donec
-    - fermentum
-    - Donec
+    - Java
+    - C
+    - SSH
+    - Tableau
+    - IntelliJ
   # At least 5 skills
   familiar:
-    - Donec
-    - fermentum
-    - fermentum
+    - Microsoft Excel
+    - Microsoft Words
+    - Microsoft Powerpoint
     - fermentum
     - fermentum
 
 # List of Jarvis projects
 jarvis_projects:
-  - name: "Cluster Monitor"
+  - name: "Linux Cluster Monitoring Agent"
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description: The aim of this project is to offer a streamlined and user-friendly solution to monitor server hardware and usage info from the server users' viewpoint. Most of the application is built using bash scripts, enabling simple execution and integration with existing server management workflows. For storing the gathered hardware and usage data, a Relational Database Management System is utilized, with PostgreSQL (psql) as the selected database technology. To simplify deployment and isolation, the project is implemented within a Docker container. The development progress is tracked using Git version control.
   - name: "Core Java Apps"
     git_url: "/core_java"
     description:
@@ -79,32 +85,34 @@ highlighted_projects:
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Software Developer"
+  - title: "Data Engineer"
     company: "Jarvis"
-    duration: "2020-present"
+    duration: "2023 - Present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
-  - title: "Tutor"
-    company: "XYZ Company"
-    duration: "2019"
+  - title: "Machine Learning Engineer Intern"
+    company: "Crater"
+    duration: "2019.08 - 2019.11"
     description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
 
 #List of edcuation
 education: 
-  - school_name: "XYZ university"
-    duration: "2012-2016"
-    degree: "Bachelor of Applied Sciences"
+  - school_name: "McMaster University"
+    duration: "2017 - 2022"
+    degree: "Doctor of Philosophy"
     department: "Electrical and Computer Engineering"
     # optional
     awards_achievements: 
-      - "Scholarship"
-      - "Dean's List (2015, 2016): Ut enim ad minim veniam"
-      - "GPA: 3.8/4.0"
-  - school_name: "XYZ university"
-    duration: "2016-2018"
-    degree: "Master of Engineering"
+      - "McMaster Graduate Scholarship"
+  - school_name: "University of Manitoba"
+    duration: "2012 - 2017"
+    degree: "Bachelor of Applied Science"
     department: "Electrical and Computer Engineering"
-    awards_achievements: 
+    awards_achievements:
+      - "MTS Mobility Scholarship Eng"
+      - "International Undergraduate Student Scholarship"
+      - "UMSU Scholarship"
+      - "INTER ENT SCHOLARSHIP 90"
 
 #Optional section
 others:
@@ -112,7 +120,7 @@ others:
   - title: "Certificates"
     #list of items
     bullets:
-      - "Udacity Machine Learning (2019)"
+      - "SQL - MySQL for Data Analytics and Business Intelligence (2023)"
   - title: "Awards"
     bullets:
       - "Winner"
@@ -121,3 +129,4 @@ others:
       - "Basketball player"
       - "Competitive gaming"
       - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+
