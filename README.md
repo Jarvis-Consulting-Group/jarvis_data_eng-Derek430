@@ -1,64 +1,49 @@
 # Kangdi Shi . Jarvis Consulting
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As an ML researcher, I am proficient in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms. I am also advanced in machine learning-based computer vision, especially in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques and have already published several papers in the top journal (e.g., TIP and TMM).
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Python, Java, MATLAB, PyTorch, Tensorflow, Linux/Bash, RDBMS/SQL, Anaconda, Pycharm, Agile/Scrum, Slack, Git
 
-**Competent:** Donec, fermentum, Donec, fermentum, Donec
+**Competent:** Java, C, SSH, Tableau, IntelliJ
 
-**Familiar:** Donec, fermentum, fermentum, fermentum, fermentum
+**Familiar:** Microsoft Excel, Microsoft Words, Microsoft Powerpoint, C++, Notion
 
 ## Jarvis Projects
 
-Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
+Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Derek430](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Derek430)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]:
-      
-  - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/springboot)]: Not Started
-
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/python_data_anlytics)]: Not Started
-
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/hadoop)]: Not Started
-
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/spark)]: Not Started
-
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/cloud_devops)]: Not Started
+**Linux Cluster Monitoring Agent** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Derek430/tree/master/linux_sql)]: The aim of this project is to offer a streamlined and user-friendly solution to monitor server hardware and usage info from the server users' viewpoint. Most of the application is built using bash scripts, enabling simple execution and integration with existing server management workflows. For storing the gathered hardware and usage data, a Relational Database Management System is utilized, with PostgreSQL (psql) as the selected database technology. To simplify deployment and isolation, the project is implemented within a Docker container. The development progress is tracked using Git version control.
 
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Progressive image inpainting on Contextual and Structural Information**: Proposed a novel Machine Learning-based image inpainting framework that can progressively recover corrupted images while maintaining their structural and contextual feature integrity. Implemented the proposed model using PyTorch and conducted extensive experiments on large datasets (100,000 samples) for performance comparison. Analyzed the data obtained from ablation studies to evaluate the individual contributions of each sub-model on the overall performance of the proposed method.
 
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Canonical Correlation Analysis for Object Retrieval**: Applied Canonical Correlation Analysis (CCA) on the image features extracted from a pretrained CNN on Tensorflow for image retrieval. Utilized Statistical Hypothesis Testing to evaluate image similarities. Evaluated the retrieval performance in terms of mean Average Precision (mAP) using MATLAB. Conducted statistical analysis using Python to uncover insights and trends from the data Compared with PCA and LDA-based approaches, the proposed showed better performance and higher robustness to dimensionality reduction.
 
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Technical Consultant, Jarvis Technologies Group Inc (2023 - Present)**: Working in Jarvis Technologies Group Inc as Technical Consultant, specializing in the development of solutions for database construction, maintenance, and monitoring. My role involves creating efficient and robust databases using PostgresSQL with Docker Containers, ensuring their smooth operation, and implementing monitoring mechanisms to track their performance using shell script. I collaborate with clients to understand their requirements and provide tailored solutions to meet their specific needs. By leveraging my expertise in data engineer, I assist in optimizing data structures, implementing security measures, and improving overall database performance.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Machine Learning Engineer Intern, Crater Labs Inc (2019.08 - 2019.11)**: Worked in Crater Labs Inc as a ML/AI researcher and responsible for developing an image style transfer system. Specifically, Designing and implementing a Generative Adversarial Network (GAN)-based Image Style Transfer algorithm that produces robust results with accurate object boundaries. The system achieved an impressive 18% increase in accuracy for producing object boundaries.
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
+**McMaster University (2017 - 2022)**, Doctor of Philosophy, Electrical and Computer Engineering
+- McMaster Graduate Scholarship
 
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**University of Manitoba (2012 - 2017)**, Bachelor of Applied Science, Electrical and Computer Engineering
+- MTS Mobility Scholarship Eng
+- International Undergraduate Student Scholarship
+- UMSU Scholarship
+- INTER ENT SCHOLARSHIP 90
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
-- Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- SQL - MySQL for Data Analytics and Business Intelligence (2023)
+- Competitive sport: Marathon
+- Competitive gaming: League of Legends, Elden Ring
+
