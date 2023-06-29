@@ -1,6 +1,6 @@
 # Kangdi Shi . Jarvis Consulting
 
-I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As an ML researcher, I am proficient in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms. I am also advanced in machine learning-based computer vision, especially in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques and have already published several papers in the top journal (e.g., TIP and TMM).
+I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As a Data Engineer, I am proficient in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms. I am also advanced in machine learning-based computer vision, especially in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques and have already published several papers in the top journal (e.g., TIP and TMM).
 
 ## Skills
 
