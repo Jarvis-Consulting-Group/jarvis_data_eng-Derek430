@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary:  I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As a Data Engineer, I am proficient in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms. I am also advanced in machine learning-based computer vision, especially in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques and have already published several papers in the top journal (e.g., TIP and TMM).
+summary:  I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As a Data Engineer, I possess proficiency in statistical analysis, forecasting/predictive analytics, multivariate testing, and optimization algorithms. Additionally, I have advanced expertise in machine learning-based computer vision, particularly in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques, and I have already published several papers in top-tier journals such as TIP and TMM. My skills also extend to Python programming and PostgreSQL for efficient database management, as well as PyTorch and TensorFlow for machine learning research.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -13,31 +13,29 @@ skills:
   # At least 5 skills
   proficient:
     - Python
-    - Java
     - MATLAB
     - PyTorch
     - Tensorflow
-    - Linux/Bash
     - RDBMS/SQL
+    - Linux/Bash
     - Anaconda
     - Pycharm
     - Agile/Scrum
-    - Slack
     - Git
   # At least 5 skills
   competent:
+    - Docker
     - Java
     - C
-    - SSH
     - Tableau
-    - IntelliJ
+    - GCP
   # At least 5 skills
   familiar:
     - Microsoft Excel
-    - Microsoft Words
-    - Microsoft Powerpoint
+    - Scala
+    - Hadoop
+    - PySpark
     - C++
-    - Notion
 
 # List of Jarvis projects
 jarvis_projects:
@@ -45,7 +43,7 @@ jarvis_projects:
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: The aim of this project is to offer a streamlined and user-friendly solution to monitor server hardware and usage info from the server users' viewpoint. Most of the application is built using bash scripts, enabling simple execution and integration with existing server management workflows. For storing the gathered hardware and usage data, a Relational Database Management System is utilized, with PostgreSQL (psql) as the selected database technology. To simplify deployment and isolation, the project is implemented within a Docker container. The development progress is tracked using Git version control.
+    description: "The aim of this project is to offer a streamlined and user-friendly solution to monitor server hardware and usage info from the server users' viewpoint. Most of the application is built using bash scripts, enabling simple execution and integration with existing server management workflows. For storing the gathered hardware and usage data, a Relational Database Management System is utilized, with PostgreSQL (psql) as the selected database technology. To simplify deployment and isolation, the project is implemented within a Docker container. The development progress is tracked using Git version control."
   #- name: "Core Java Apps"
   #  git_url: "/core_java"
   #  description:
