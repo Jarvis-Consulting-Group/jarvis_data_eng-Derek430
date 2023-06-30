@@ -28,6 +28,7 @@ skills:
     - Java
     - C
     - Tableau
+<<<<<<< HEAD
     - GCP
   # At least 5 skills
   familiar:
@@ -35,6 +36,11 @@ skills:
     - Scala
     - Hadoop
     - PySpark
+=======
+  # At least 5 skills
+  familiar:
+    - Microsoft Excel
+>>>>>>> 1fde82771c622b2f38109d2fd1c283cb4b2a8585
     - C++
 
 # List of Jarvis projects
