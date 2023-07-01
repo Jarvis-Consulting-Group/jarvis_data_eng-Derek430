@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary:  I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As a Data Engineer, I am proficient in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms. My expertise extends to Python programming and PostgreSQL for efficient database management. Additionally, I am advanced in machine learning-based computer vision, especially in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques and have already published several papers in the top journal (e.g., TIP and TMM).
+summary:  I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As a Data Engineer, I possess proficiency in statistical analysis, forecasting/predictive analytics, multivariate testing, and optimization algorithms. Additionally, I have advanced expertise in machine learning-based computer vision, particularly in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques, and I have already published several papers in top-tier journals such as TIP and TMM. My skills also extend to Python programming and PostgreSQL for efficient database management, as well as PyTorch and TensorFlow for machine learning research.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -16,8 +16,8 @@ skills:
     - MATLAB
     - PyTorch
     - Tensorflow
-    - Linux/Bash
     - RDBMS/SQL
+    - Linux/Bash
     - Anaconda
     - Pycharm
     - Agile/Scrum
@@ -28,9 +28,19 @@ skills:
     - Java
     - C
     - Tableau
+<<<<<<< HEAD
+    - GCP
   # At least 5 skills
   familiar:
     - Microsoft Excel
+    - Scala
+    - Hadoop
+    - PySpark
+=======
+  # At least 5 skills
+  familiar:
+    - Microsoft Excel
+>>>>>>> 1fde82771c622b2f38109d2fd1c283cb4b2a8585
     - C++
 
 # List of Jarvis projects

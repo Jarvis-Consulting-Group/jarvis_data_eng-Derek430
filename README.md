@@ -1,14 +1,14 @@
 # Kangdi Shi . Jarvis Consulting
 
-I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As a Data Engineer, I am proficient in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms. I am also advanced in machine learning-based computer vision, especially in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques and have already published several papers in the top journal (e.g., TIP and TMM).
+I received my Ph.D. degree in Electrical and Computer Engineering from McMaster University in December 2022. As a Data Engineer, I possess proficiency in statistical analysis, forecasting/predictive analytics, multivariate testing, and optimization algorithms. Additionally, I have advanced expertise in machine learning-based computer vision, particularly in data restoration, classification, and recognition. I am always passionate and self-motivated to explore cutting-edge AI techniques, and I have already published several papers in top-tier journals such as TIP and TMM. My skills also extend to Python programming and PostgreSQL for efficient database management, as well as PyTorch and TensorFlow for machine learning research.
 
 ## Skills
 
-**Proficient:** Python, Java, MATLAB, PyTorch, Tensorflow, Linux/Bash, RDBMS/SQL, Anaconda, Pycharm, Agile/Scrum, Slack, Git
+**Proficient:** Python, MATLAB, PyTorch, Tensorflow, RDBMS/SQL, Linux/Bash, Anaconda, Pycharm, Agile/Scrum, Git
 
-**Competent:** Java, C, SSH, Tableau, IntelliJ
+**Competent:** Docker, Java, C, Tableau, GCP
 
-**Familiar:** Microsoft Excel, Microsoft Words, Microsoft Powerpoint, C++, Notion
+**Familiar:** Microsoft Excel, Scala, Hadoop, PySpark, C++
 
 ## Jarvis Projects
 
