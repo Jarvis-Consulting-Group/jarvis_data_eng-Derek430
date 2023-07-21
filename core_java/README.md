@@ -3,7 +3,7 @@ In this project, I am utilizing the Java Database Connectivity (JDBC) API to pro
 
 # Implementaiton
 ## ER Diagram
-![image info](postgres - public.png)
+![image info](ERD.png)
 
 ## Design Patterns
 Discuss DAO and Repository design patterns (150-200 words)
